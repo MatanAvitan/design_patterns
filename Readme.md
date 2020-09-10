@@ -1,1 +1,1 @@
-# This project stands for show an implementation of useful design patters.
+# This project stands for showing an implementation of useful design patters.
